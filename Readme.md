@@ -9,8 +9,6 @@
 7. git diff {commit 1} {commit 2} : Show the difference between two commits
 8. git revert {commit-id} : Revert the changes in the staging area with messages
 
-sdfasdfasdf
-
 ## Git Configurations
 1. git config --global user.name : Get the name of the user
 2. git config --global user.email : Get the email of the user
