@@ -7,6 +7,7 @@
 5. git log : Show the history of the current repository
 6. git checkout {branch-name} | {commit-id} : Checkout a branch | commit id
 7. git diff {commit 1} {commit 2} : Show the difference between two commits
+8. git revert {commit-id} : Revert the changes in the staging area with messages
 
 ## Git Configurations
 1. git config --global user.name : Get the name of the user
