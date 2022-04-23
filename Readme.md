@@ -4,6 +4,9 @@
 2. git status : Show the status of the current repository
 3. git add {filename} | . : Add a file to the staging area
 4. git commit -m "{message-here}" : Commit the changes in the staging area with messages
+5. git log : Show the history of the current repository
+6. git checkout {branch-name} | {commit-id} : Checkout a branch | commit id
+7. git diff {commit 1} {commit 2} : Show the difference between two commits
 
 ## Git Configurations
 1. git config --global user.name : Get the name of the user
